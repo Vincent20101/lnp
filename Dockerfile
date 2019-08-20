@@ -1,2 +1,2 @@
-FROM vincent/lnp3
-CMD ["/bin/bash","/root/startlnmp.sh"]
+FROM vincent20101/lnp:1.1
+CMD ["/bin/bash","/bin/startlnmp"]
